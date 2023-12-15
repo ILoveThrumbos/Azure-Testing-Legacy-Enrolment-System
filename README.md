@@ -59,11 +59,12 @@ Before getting started, ensure you have the following installed:
 5. In the Server Explorer connect to the created newly created MVC app (may have to config connection in the Web.config)
 6. Run the project and run select through the .svc options
 7. Test the application
+8. If you wish to run this project in Visual Studios Windows Form click here for the [template](https://github.com/ILoveThrumbos/Windows-Form-Template-Enrolment-System.git)
 
 ### Known Issues
    - Currently no known issues.
-   - 
-   - 
+     
+     
 
 ## Support and Contributions
 If you encounter any issues or have suggestions for improvement, please create an issue on the GitHub repository. Contributions are welcome, so feel free to submit pull requests to enhance the functionality or fix bugs.
