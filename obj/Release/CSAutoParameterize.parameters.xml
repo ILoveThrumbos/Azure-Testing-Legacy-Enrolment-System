@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EnrolmentDBConnectionString7-Web.config Connection String" description="EnrolmentDBConnectionString7 Connection String used in web.config by the application to access the database." defaultValue="Data Source=enrolmentdb20231122.database.windows.net;Initial Catalog=EnrolmentDB;User ID=minh;Password=Password1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\TAFE\ Projects\\VisualStudio2022\\source\\repos\\EnrolmentAdminService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EnrolmentDBConnectionString7']/@connectionString" />
+  </parameter>
+  <parameter name="enrolmentdb20231122.EnrolmentDB.dbo-Web.config Connection String" description="enrolmentdb20231122.EnrolmentDB.dbo Connection String used in web.config by the application to access the database." defaultValue="Data Source=enrolmentdb20231122.database.windows.net;Initial Catalog=EnrolmentDB;User ID=minh;Password=Password1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\TAFE\ Projects\\VisualStudio2022\\source\\repos\\EnrolmentAdminService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='enrolmentdb20231122.EnrolmentDB.dbo']/@connectionString" />
+  </parameter>
+  <parameter name="EnrolmentDBConnectionString-Web.config Connection String" description="EnrolmentDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=enrolmentdb20231122.database.windows.net;Initial Catalog=EnrolmentDB;User ID=minh;Password=Password1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\TAFE\ Projects\\VisualStudio2022\\source\\repos\\EnrolmentAdminService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EnrolmentDBConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="EnrolmentDBConnectionString1-Web.config Connection String" description="EnrolmentDBConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=enrolmentdb20231122.database.windows.net;Initial Catalog=EnrolmentDB;User ID=minh;Password=Password1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\TAFE\ Projects\\VisualStudio2022\\source\\repos\\EnrolmentAdminService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EnrolmentDBConnectionString1']/@connectionString" />
+  </parameter>
+  <parameter name="EnrolmentDBConnectionString2-Web.config Connection String" description="EnrolmentDBConnectionString2 Connection String used in web.config by the application to access the database." defaultValue="Data Source=enrolmentdb20231122.database.windows.net;Initial Catalog=EnrolmentDB;User ID=minh;Password=Password1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\TAFE\ Projects\\VisualStudio2022\\source\\repos\\EnrolmentAdminService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EnrolmentDBConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="EnrolmentDBConnectionString3-Web.config Connection String" description="EnrolmentDBConnectionString3 Connection String used in web.config by the application to access the database." defaultValue="Data Source=enrolmentdb20231122.database.windows.net;Initial Catalog=EnrolmentDB;User ID=minh;Password=Password1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\TAFE\ Projects\\VisualStudio2022\\source\\repos\\EnrolmentAdminService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EnrolmentDBConnectionString3']/@connectionString" />
+  </parameter>
+</parameters>
